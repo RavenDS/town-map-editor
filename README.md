@@ -1,6 +1,7 @@
 # DS Town Map Editor
 
-A tool to edit Town positions, Fly Locations, and descriptions displayed on the D/P/Pt/HG/SS Town Map!
+Complete Custom Map Creator for **D/P/Pt/HG/SS**. 
+Import a Custom map, edit Town positions, Fly Locations, and descriptions displayed on the Town Map!
 
 <img src="DSTME.png" width=50% height=50%>
 <img src="DSTME2_0.png" width=50% height=50%>
